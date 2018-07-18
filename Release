@@ -1,0 +1,16 @@
+Origin: JRonk’s Beta Repo
+
+Label: iOS Beta
+
+Suite: beta
+
+Version: 1.0
+
+Codename: iOS-Beta
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: Beta repo for iOS tweaks and apps
+
