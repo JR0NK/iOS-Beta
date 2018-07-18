@@ -1,15 +1,15 @@
-Package: 
+Package: com.jronk.popuponstart
 Section: 
-Maintainer: 
+Maintainer: JRonk
 Architecture: iphoneos-arm
-Version: 
+Version: 0.0.1
 Depends: mobilesubstrate
-Filename: debs//
+Filename: debs/com.jronk.popuponstart_0.0.1-5_iphoneos-arm.deb/
 Size: 
 MD5sum: 
 SHA1: 
 SHA256: 
 Description: 
-Name: 
+Name: PopupOnStart
 Author: JRonk <jronk.appdev@gmail.com>
 
