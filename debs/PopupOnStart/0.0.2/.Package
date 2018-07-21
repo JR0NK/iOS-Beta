@@ -1,0 +1,15 @@
+
+Architecture: iphoneos-arm
+Author: JRonk
+Depends: 
+Description: 
+Filename: debs/PopupOnStart/0.0.2/com.jronk.popuponstart_0.0.1-5_iphoneos-arm.deb
+MD5sum: 1c0c97046ca68426b777b770bca7dc8e
+Maintainer: JRonk
+Name: PopupOnStart
+Package: 
+SHA1: 46c50cdf1e1700781a2b99b6f705e5b6a6977f09
+SHA256: 1cb432efd2aa34354bd4f18612ad0d496039101cb8deeab804e0cdbb1bd8584a
+Section: 
+Size: 3088
+Version: 0.0.2

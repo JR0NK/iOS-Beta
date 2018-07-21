@@ -1,5 +1,5 @@
-Version: 0.0.1
-Filename: debs/PopupOnStart/0.0.1/com.jronk.popuponstart_0.0.1-5_iphoneos-arm.deb
+Version: 0.0.2
+Filename: debs/PopupOnStart/0.0.2/com.jronk.popuponstart_0.0.1-5_iphoneos-arm.deb
 Size: 3088
 MD5sum: 1c0c97046ca68426b777b770bca7dc8e
 SHA1: 46c50cdf1e1700781a2b99b6f705e5b6a6977f09
