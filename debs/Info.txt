@@ -1,10 +1,10 @@
 Architecture: iphoneos-arm
-Author: JRonk
+Author: JRonk <jronk.appdev@gmail.com>
 Depends: mobilesubstrate
 Description: 
 Filename: debs/[NAME]/[VERSION]/com.jronk.[NAME]-[VERSION].deb
 MD5sum: 
-Maintainer: JRonk
+Maintainer: JRonk <jronk.appdev@gmail.com>
 Name: [NAME]
 Package: com.jronk.[NAME]
 SHA1: 
